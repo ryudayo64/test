@@ -1,8 +1,14 @@
-### これはryudayo64のテストページです。
+### IT系専門学生　2023年時点
+##目次
+* 自己紹介
+* 今何を学んでいるか
+
+
+
+
 ````
 ```
-Look! You can see my backticks.
 ```
 ````
-* Hello world
+
   <?php?>
