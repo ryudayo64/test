@@ -4,5 +4,5 @@
 Look! You can see my backticks.
 ```
 ````
-*Hello world
+* Hello world
   <?php?>
