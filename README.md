@@ -6,7 +6,7 @@
 
 -- 自己紹介--
   
-<img src="https://github.com/ryudayo64/test/assets/116864638/80436b62-4eb7-4646-bf97-f4349fc2c257" width="100">
+<img src="https://github.com/ryudayo64/test/assets/116864638/80436b62-4eb7-4646-bf97-f4349fc2c257" width="300">
 
 ````
 ```
